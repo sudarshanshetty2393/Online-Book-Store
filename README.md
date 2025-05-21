@@ -3,12 +3,17 @@
 to run-
 
 cd backend
+
 npm init -y
+
 npm install express mongoose bcryptjs jsonwebtoken cors dotenv
 
 
+
 cd frontend
+
 npm install axios react-router-dom
+
 
 **Developed a full-stack e-commerce platform for selling movies and books using MERN stack (MongoDB, Express.js, React, Node.js).
 
